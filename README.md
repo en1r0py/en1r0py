@@ -25,3 +25,4 @@ Clean up codebase
 Update dependencies
 Polish UI layout
 Change theme color
+Tweak margin and padding
