@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Fix bug in feature X
 Improve error handling
 Rewrite function Y
+Rewrite function Y
