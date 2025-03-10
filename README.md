@@ -19,3 +19,4 @@ Improve error handling
 Rewrite function Y
 Rewrite function Y
 Update API endpoint
+Update dependencies
