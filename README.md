@@ -24,3 +24,4 @@ Update API endpoint
 Clean up codebase
 Update dependencies
 Polish UI layout
+Change theme color
