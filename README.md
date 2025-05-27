@@ -21,3 +21,4 @@ Rewrite function Y
 Update API endpoint
 Update dependencies
 Update API endpoint
+Clean up codebase
