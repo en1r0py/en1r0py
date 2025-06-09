@@ -23,3 +23,4 @@ Update dependencies
 Update API endpoint
 Clean up codebase
 Update dependencies
+Polish UI layout
